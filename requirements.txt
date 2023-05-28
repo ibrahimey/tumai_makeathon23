@@ -1,0 +1,16 @@
+
+azure-ai-translation-document==1.0.0
+azure-cognitiveservices-speech==1.27.0
+azure-cognitiveservices-vision-computervision==0.9.0
+azure-common==1.1.28
+azure-core==1.26.4
+azure-storage-blob==12.16.0
+numpy==1.24.3
+PyLaTeX==1.4.1
+torch==2.0.0
+torchaudio==2.0.1
+torchvision==0.15.1
+transformers==4.28.1
+translators==5.7.0
+streamlit==1.22.0
+cohere==4.3.0

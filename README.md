@@ -1,2 +1,2 @@
-# tumai_makeathon23
-Public repository for our makeathon project
+# makeathon2023
+The TUM.ai Makeathon 2023 Project
